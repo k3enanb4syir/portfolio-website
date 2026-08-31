@@ -37,9 +37,6 @@ export default function Portfolio() {
           <Link href="#experience" className="hover:text-emerald-400 transition-colors">EXPERIENCE</Link>
           <Link href="#projects" className="hover:text-purple-400 transition-colors">PROJECTS</Link>
         </div>
-        <a href="/Muhammad_Keenan_Basyir_CV.pdf" target="_blank" className="flex items-center gap-2 text-xs font-medium text-blue-400 hover:text-blue-300 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)] transition-all mono">
-          RESUME <ArrowUpRight size={14} />
-        </a>
       </motion.nav>
 
       <main className="relative z-10 flex flex-col items-center">
