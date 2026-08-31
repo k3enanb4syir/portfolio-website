@@ -13,8 +13,8 @@ export default function Portfolio() {
   };
 
   return (
-    // The [zoom:75%] class scales the entire layout down globally
-    <div className="relative min-h-screen bg-[#050505] [zoom:75%] overflow-x-hidden">
+    // The [zoom:90%] class scales the entire layout down globally
+    <div className="relative min-h-screen bg-[#050505] [zoom:90%] overflow-x-hidden">
       
       {/* Background Noise and Grid */}
       <div className="noise opacity-40" />
